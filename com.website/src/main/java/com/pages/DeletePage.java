@@ -1,4 +1,4 @@
-package com.website;
+package com.pages;
 
 public class DeletePage {
 
